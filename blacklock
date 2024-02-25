@@ -1,12 +1,6 @@
-GQHRNV
-OIKZ08
-GCGABC
-B3XMIE
-SNB4PN
-TUV1YH
-QMI31R
-E15W32
-4CAUZ5
-E6RNFH
-WRKY5X
-JAIPYY
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xD0061eAb9AF7AbCaf8E20EaC79aeFa90F552D14C'
+quorum: 1
